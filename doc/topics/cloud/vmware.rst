@@ -23,8 +23,7 @@ This package can be installed using `pip` or `easy_install`:
 
 .. code-block:: bash
 
-    pip install pyvmomi
-    easy_install pyvmomi
+    salt-pip install pyvmomi
 
 .. note::
 
